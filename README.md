@@ -81,9 +81,3 @@ Optional network plotting uses `BayesNet.draw_structure()` and requires `python 
 - Computation uses ordinary floating-point probabilities, so very small probabilities can underflow.
 - Example probabilities are supplied assumptions. They are not empirical findings or evidence of real-world decision quality.
 
-## Background and credits
-
-Maintained by Felix Nastar. Based on [KR21_project2](https://github.com/fnastar/KR21_project2), originally a Group 32 coursework project. The supplied `BayesNet` container and teaching networks retain their source credits.
-
-See [provenance and changes](docs/provenance.md) for the source revision, inherited material and changes in this copy. The incomplete hiring network is retained in `archive/` for reference and is not used by the demo.
-
